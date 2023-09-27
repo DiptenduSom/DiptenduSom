@@ -1,3 +1,6 @@
+![Diptendu Som](https://github.com/DiptenduSom/DiptenduSom/assets/144515580/70482c27-b6be-4042-8841-f29a1e1d2d38)
+
+
 <h1 align="center">Hi 👋, I'm Diptendu Som</h1>
 <h3 align="center">A passionate coder from India who also takes interest in digital marketing</h3>
 
